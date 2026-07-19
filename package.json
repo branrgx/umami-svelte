@@ -1,6 +1,7 @@
 {
 	"name": "@branrgx/umami-svelte",
 	"version": "1.0.0",
+	"packageManager": "pnpm@11.13.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
